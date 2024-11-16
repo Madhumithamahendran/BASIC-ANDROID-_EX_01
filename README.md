@@ -1,5 +1,5 @@
-# Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
-
+# DATE : 19.08.2024
+# Ex.No:1 a.) Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 ## AIM:
 
@@ -8,7 +8,6 @@ To create Hello world Activity using all lifecycles methods to display messages 
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
-
 
 ## ALGORITHM:
 
@@ -25,8 +24,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
-
-
 
 ## PROGRAM:
  ```
@@ -146,8 +143,6 @@ android:layout_gravity="center_horizontal"/>
 </LinearLayout>
 
 ```
-
-
 ## OUTPUT:
 
 ![Screenshot 2024-08-28 215626](https://github.com/user-attachments/assets/531b2bea-362d-48f1-b164-ff1f81191329)
